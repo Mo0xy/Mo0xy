@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo0xy&theme=dark&hide_border=false"><br/>
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo0xy&theme=dark&hide_border=false"><br/> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo0xy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
