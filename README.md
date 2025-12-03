@@ -59,5 +59,4 @@
 <img src="https://raw.githubusercontent.com/Mo0xy/Mo0xy/output/github-contribution-grid-snake.svg"
      alt="snake animation" />
 
-
 ###
