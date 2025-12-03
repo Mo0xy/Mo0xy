@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mo0xy/Mo0xy/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu Mo0xy>/<seu Mo0xy>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
