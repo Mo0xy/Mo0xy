@@ -4,25 +4,19 @@
 
 ###
 
-<div>
-<p> 
-  <h3>About Me:</h3>
-  
-    My name is Alessandro and I'm a software developer from Bari 🇮🇹
-  
-    🎵 Outside the Code Editor
 
-    When I’m not fighting with an LLM or an API, you’ll find me:
-    
-    🏋️‍♂️ at the gym working out the emotional damage from debugging.
-    
-    ♟️ losing at chess
-    
-    🎶 listening to music
-    
-    🔧 building stuff that don't works
-</p>
-</div>
+> [!NOTE]
+> 
+> About Me:
+> My name is Alessandro and I'm a software developer from Bari 🇮🇹
+> 
+> 🎵 **Outside the Code Editor**
+> 
+> When I'm not fighting with an LLM or an API, you'll find me:
+> - 🏋️ at the gym working out the emotional damage from debugging.
+> - ♟️ losing at chess
+> - 🎶 listening to music
+> - 🔧 building stuff that don't works
 
 <img src="https://raw.githubusercontent.com/Mo0xy/Mo0xy/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
