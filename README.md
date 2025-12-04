@@ -90,18 +90,13 @@
 
 <h3> You can find me on:</h3>
 
-<br>
 
 <div align="left">
-  <a href="mailto:tua@email.com">
+  <a href="mailto:alessandro.ferrulli21@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/tuoprofilo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tua@outlook.com">
+  <a href="mailto:a.ferrulli27@studenti.uniba.it">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="40" alt="outlook"/>
   </a>
 </div>
