@@ -1,5 +1,5 @@
 
-<div display="flex">
+<div align="center">
   <img align="right" height="190" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
   
   ###
@@ -8,7 +8,9 @@
   
   ###
   
-  <p align="left">i'm a software developer in bari</p>
+  <div align="left">
+    <img src="./about-me.svg" alt="About Me" align="center">
+  </div>
 
 ###
 </div>
