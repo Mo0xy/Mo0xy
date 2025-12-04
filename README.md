@@ -4,21 +4,13 @@
 
 ###
 
+<div align="center">
+  <img src="./about-me.svg" alt="About Me" align="center">
+</div>
 
-> [!NOTE]
-> 
-> About Me:
-> My name is Alessandro and I'm a software developer from Bari 🇮🇹
-> 
-> 🎵 **Outside the Code Editor**
-> 
-> When I'm not fighting with an LLM or an API, you'll find me:
-> - 🏋️ at the gym working out the emotional damage from debugging.
-> - ♟️ losing at chess
-> - 🎶 listening to music
-> - 🔧 building stuff that don't works
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Mo0xy/Mo0xy/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
 
 <h3> Tech Stack</h3>
 
