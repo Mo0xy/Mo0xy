@@ -1,0 +1,30 @@
+<svg fill="none" viewBox="0 0 800 220" width="800" height="220" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: linear-gradient(135deg, #1a1b27 0%, #24283b 100%);
+          border-radius: 10px;
+          padding: 20px 25px;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          color: #a9b1d6;
+          font-size: 14px;
+          line-height: 1.6;
+        }
+        h3 { color: #7aa2f7; margin: 0 0 15px 0; }
+        .subtitle { color: #bb9af7; margin: 10px 0; }
+        .item { margin: 8px 0 8px 10px; }
+      </style>
+      <div class="container">
+        <h3>About Me:</h3>
+        <div>My name is Alessandro and I'm a software developer from Bari 🇮🇹</div>
+        <div class="subtitle">🎵 Outside the Code Editor</div>
+        <div>When I'm not fighting with an LLM or an API, you'll find me:</div>
+        <div class="item">🏋️ at the gym working out the emotional damage from debugging.</div>
+        <div class="item">♟️ losing at chess</div>
+        <div class="item">🎶 listening to music</div>
+        <div class="item">🔧 building stuff that don't works</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
