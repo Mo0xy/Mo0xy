@@ -3,7 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
-          background: linear-gradient(to right, #1a1b27 0%, #0d1117 60%);
+          background: linear-gradient(to right, #1a1b27 0%, #0d1118 50%);
           border-radius: 10px;
           padding: 20px 25px;
           font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
