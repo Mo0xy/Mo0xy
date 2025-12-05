@@ -1,9 +1,4 @@
 
-<div align="center">
-  <img align="right" height="190" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
-  
-  ###
-  
   <h1 align="left">Hi, I'm Alessandro</h1>
   
   ###
