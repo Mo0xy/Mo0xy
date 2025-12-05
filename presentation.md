@@ -89,8 +89,11 @@
 </div>
 
 ###
+<br clear="both">
+<br clear="both">
+<br clear="both">
 
-<p align="center">You can find me on</p>
+<h3 align="center">You can find me on</h3>
 
 ###
 
@@ -101,10 +104,9 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
