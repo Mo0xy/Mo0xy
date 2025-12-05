@@ -18,6 +18,7 @@
       <div class="container">
         <h3>About Me:</h3>
         <div>My name is Alessandro and I'm a software developer from Bari 🇮🇹</div>
+        <img class="gif" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" align="right" width="200" height="150"/>
         <div class="subtitle">🎵 Outside the Code Editor</div>
         <div>When I'm not fighting with an LLM or an API, you'll find me:</div>
         <div class="item">🏋️ at the gym working out the emotional damage from debugging.</div>
